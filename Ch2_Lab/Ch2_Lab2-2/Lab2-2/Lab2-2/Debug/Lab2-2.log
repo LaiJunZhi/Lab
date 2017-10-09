@@ -1,0 +1,34 @@
+﻿已經開始建置於 2017/10/3/週二 下午 03:08:21。
+     1>節點 2 (Build 目標) 上的專案 "C:\c_code\Ch2_Lab2-2\Lab2-2\Lab2-2\Lab2-2.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\fuction_1.c ..\..\source\fuction_2.c ..\..\source\fuction_3.c ..\..\source\fuction_4.c ..\..\source\fuction_5.c ..\..\source\main.c
+         main.c
+     1>c:\c_code\ch2_lab2-2\source\main.c(6): warning C4013: 'Han_Xin_1' 未定義; 假設 extern 傳回整數
+     1>c:\c_code\ch2_lab2-2\source\main.c(7): warning C4013: 'Han_Xin_2' 未定義; 假設 extern 傳回整數
+     1>c:\c_code\ch2_lab2-2\source\main.c(8): warning C4013: 'Han_Xin_3' 未定義; 假設 extern 傳回整數
+     1>c:\c_code\ch2_lab2-2\source\main.c(9): warning C4013: 'Han_Xin_4' 未定義; 假設 extern 傳回整數
+     1>c:\c_code\ch2_lab2-2\source\main.c(10): warning C4013: 'Han_Xin_5' 未定義; 假設 extern 傳回整數
+         fuction_5.c
+         fuction_4.c
+         fuction_3.c
+         fuction_2.c
+         fuction_1.c
+         正在產生程式碼...
+     1>c:\c_code\ch2_lab2-2\source\fuction_1.c(27): warning C4716: 'Han_Xin_1': 必須傳回值
+     1>c:\c_code\ch2_lab2-2\source\fuction_2.c(28): warning C4716: 'Han_Xin_2': 必須傳回值
+     1>c:\c_code\ch2_lab2-2\source\fuction_3.c(39): warning C4716: 'Han_Xin_3': 必須傳回值
+     1>c:\c_code\ch2_lab2-2\source\fuction_4.c(39): warning C4716: 'Han_Xin_4': 必須傳回值
+     1>c:\c_code\ch2_lab2-2\source\fuction_5.c(33): warning C4716: 'Han_Xin_5': 必須傳回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\c_code\Ch2_Lab2-2\Lab2-2\Debug\Lab2-2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\c_code\Ch2_Lab2-2\Lab2-2\Debug\Lab2-2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\c_code\Ch2_Lab2-2\Lab2-2\Debug\Lab2-2.lib" /MACHINE:X86 Debug\fuction_1.obj
+         Debug\fuction_2.obj
+         Debug\fuction_3.obj
+         Debug\fuction_4.obj
+         Debug\fuction_5.obj
+         Debug\main.obj
+         Lab2-2.vcxproj -> C:\c_code\Ch2_Lab2-2\Lab2-2\Debug\Lab2-2.exe
+     1>專案 "C:\c_code\Ch2_Lab2-2\Lab2-2\Lab2-2\Lab2-2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.75
