@@ -1,0 +1,18 @@
+﻿已經開始建置於 2017/12/19/週二 下午 03:28:40。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\user\Desktop\Lab\Ch7_Lab\Ch7_Lab2\Lab\Lab\Lab.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\main.c
+         main.c
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(50): error C2059: 語法錯誤: '字串'
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(54): error C2059: 語法錯誤: 'else'
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(71): error C2143: 語法錯誤: 遺漏 ')' (在 '字串' 之前)
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(71): error C2143: 語法錯誤: 遺漏 '{' (在 '字串' 之前)
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(71): error C2059: 語法錯誤: '字串'
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(71): error C2059: 語法錯誤: ')'
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(72): error C2059: 語法錯誤: 'return'
+     1>c:\users\user\desktop\lab\ch7_lab\ch7_lab2\source\main.c(73): error C2059: 語法錯誤: '}'
+     1>專案 "C:\Users\user\Desktop\Lab\Ch7_Lab\Ch7_Lab2\Lab\Lab\Lab.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.16
